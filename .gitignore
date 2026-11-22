@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+.DS_Store
